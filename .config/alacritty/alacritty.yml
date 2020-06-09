@@ -213,7 +213,8 @@ colors:
    yellow:  '#F4BF75' #I like this yellow, but XTerms is cdcd00 for reference
    blue:    '#66D9EF'
    magenta: '#AE81FF'
-   cyan:    '#A1EFE4'
+   # cyan:    '#A1EFE4' # Also XTerm color
+   cyan:    '#00cdcd'
    white:   '#F8F8F2'
 
   # Bright colors
@@ -225,7 +226,8 @@ colors:
    yellow:  '#F4BF75'
    blue:    '#66D9EF'
    magenta: '#AE81FF'
-   cyan:    '#A1EFE4'
+   # cyan:    '#A1EFE4'
+   cyan:    '#00ffff'
    white:   '#F9F8F5'
 # Colors (Tomorrow Night Bright)
 #colors:
